@@ -1,6 +1,14 @@
-🇧🇷 # Cookin' Up!
+🇧🇷 # Cookin' Up! 🇧🇷
 
 Projeto desenvolvido com VueJS como parte do curso "Vue 3: entendendo componentes, diretivas e reatividade no framework" da plataforma Alura.
+
+## Imagens do projeto
+
+![Projeto Alura 01](public/imagens/Cookin'%20Up!%20-%20Projeto%20Alura%2001.png)
+![Projeto Alura 02](public/imagens/Cookin'%20Up!%20-%20Projeto%20Alura%2002.png)
+![Projeto Alura 03](public/imagens/Cookin'%20Up!%20-%20Projeto%20Alura%2003.png)
+![Projeto Alura 04](public/imagens/Cookin'%20Up!%20-%20Projeto%20Alura%2004.png)
+![Projeto Alura 05](public/imagens/Cookin'%20Up!%20-%20Projeto%20Alura%2005.png)
 
 ## Matriz curricular
 
@@ -60,9 +68,17 @@ Projeto desenvolvido com VueJS como parte do curso "Vue 3: entendendo componente
 
 ---
 
-🇺🇸 # Cookin' Up!
+🇺🇸 # Cookin' Up! 🇺🇸
 
 Project developed with VueJS as part of the course "Vue 3: understanding components, directives, and reactivity in the framework" from Alura platform.
+
+## Project Images
+
+![Project 01](public/imagens/Cookin'%20Up!%20-%20Projeto%20Alura%2001.png)
+![Project 02](public/imagens/Cookin'%20Up!%20-%20Projeto%20Alura%2002.png)
+![Project 03](public/imagens/Cookin'%20Up!%20-%20Projeto%20Alura%2003.png)
+![Project 04](public/imagens/Cookin'%20Up!%20-%20Projeto%20Alura%2004.png)
+![Project 05](public/imagens/Cookin'%20Up!%20-%20Projeto%20Alura%2005.png)
 
 ## Curriculum
 
