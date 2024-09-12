@@ -1,6 +1,7 @@
 🇧🇷 # Cookin' Up! 🇧🇷
 
-Projeto desenvolvido com VueJS como parte do curso "Vue 3: entendendo componentes, diretivas e reatividade no framework" da plataforma Alura.
+Projeto desenvolvido com VueJS como parte do curso "Vue 3: entendendo componentes, diretivas e reatividade no framework" da plataforma Alura. <br>
+[Certificado do curso](https://cursos.alura.com.br/certificate/4a0eb16b-234b-4422-9362-d746dbfc0621)
 
 ## Imagens do projeto
 
@@ -70,7 +71,8 @@ Projeto desenvolvido com VueJS como parte do curso "Vue 3: entendendo componente
 
 🇺🇸 # Cookin' Up! 🇺🇸
 
-Project developed with VueJS as part of the course "Vue 3: understanding components, directives, and reactivity in the framework" from Alura platform.
+Project developed with VueJS as part of the course "Vue 3: understanding components, directives and reactivity in the framework" from Alura platform. <br>
+[Course Certificate](https://cursos.alura.com.br/certificate/4a0eb16b-234b-4422-9362-d746dbfc0621?lang=en)
 
 ## Project Images
 
